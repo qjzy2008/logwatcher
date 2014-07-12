@@ -5,4 +5,4 @@ echo "logwatcher is runing!"
 exit
 fi
 echo "python watch_valgrind_log.py &"
-#python watch_valgrind_log.py &
+python watch_valgrind_log.py &
